@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+venv/
+.env
+*.pyc
+
+# Database
+# On n'envoie pas les logs, seulement les scripts .sql
+*.log
+
+# Frontend (pour plus tard)
+node_modules/
+build/
